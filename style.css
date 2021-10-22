@@ -3,6 +3,9 @@ body{
 }
 #title{
     background-color: brown;
+    color: bisque;
+    border-radius: 5px;
+    padding: 15px;
 }
 .submit-area{
     display: block;
